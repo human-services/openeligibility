@@ -7,6 +7,6 @@ Human Services Taxonomy by Aunt Bertha, Inc. is licensed under a Creative Common
 
 http://openeligibility.org
 
-The taxonomy is available in three formats: [XML](https://raw.githubusercontent.com/human-services/openeligibility/master/taxonomy), [CSV](https://raw.githubusercontent.com/human-services/openeligibility/master/taxonomy.csv), and [JSON](https://raw.githubusercontent.com/human-services/openeligibility/master/taxonomy.json).
+The taxonomy is available in four formats: [XML](https://raw.githubusercontent.com/human-services/openeligibility/master/taxonomy), and much simpler  [CSV](https://raw.githubusercontent.com/human-services/openeligibility/master/taxonomy.csv), [JSON](https://raw.githubusercontent.com/human-services/openeligibility/master/taxonomy.json), and [YAML](https://raw.githubusercontent.com/human-services/openeligibility/master/taxonomy.yaml) editions.
 
 This copy is being maintained by API Evangelist, as part of the human services API work.
