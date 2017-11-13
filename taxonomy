@@ -1,10 +1,10 @@
-<?xml version="2.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <taxonomy>
 	<version>2.0</version>
 	<update_date></update_date>
 	<services>
 	    <descriptions>
-	    	<category id="1101" title="emergency">Services for psychiatric emergencies, emergency financial assistance, immediate safety needs, disaster preparedness and disaster response. 
+	    	<category id="1101" title="emergency">Services for psychiatric emergencies, emergency financial assistance, immediate safety needs, disaster preparedness and disaster response.
 	    	</category>
 	    	<category id="1102" title="food">Services for free meals, food pantries, help paying for food, food delivery, food benefits and nutrition support.
 	    	</category>
@@ -12,17 +12,17 @@
 	    	</category>
 	    	<category id="1104" title="goods">Services for clothing, furniture, baby supplies, toys and gifts and other physical goods.
 	    	</category>
-	    	<category id="1105" title="transit">Services for bus passes, transportation to school, healthcare, appointments and more. 
+	    	<category id="1105" title="transit">Services for bus passes, transportation to school, healthcare, appointments and more.
 	    	</category>
 	    	<category id="1106" title="health">Services for medical care, dental care, health education, addiction and recovery, help finding services and help paying for healthcare.
 	    	</category>
 	    	<category id="1107" title="money">Services to help pay for housing, education, childcare, school, food and goods, financial education, tax preparation, insurance, government benefits, vouchers and more.
-	    	</category>    	
+	    	</category>
 	    	<category id="1108" title="care">Services for animal welfare, residential caregiving, daytime caregiving, adoption &amp; foster care, building support networks, end-of-life care and help navigating the system.
 	    	</category>
-	    	<category id="1109" title="education">Services for preschool, after-school, special education, help finding school, help paying for school, alternative education tutoring and more. 
+	    	<category id="1109" title="education">Services for preschool, after-school, special education, help finding school, help paying for school, alternative education tutoring and more.
 	    	</category>
-	    	<category id="1110" title="work">Services for finding and sustaining work and improving job skills and abilities. 
+	    	<category id="1110" title="work">Services for finding and sustaining work and improving job skills and abilities.
 	    	</category>
 	    	<category id="1111" title="legal">Services for legal representation, mediation, advocacy, citizenship and immigration, adoption and foster care, guardianship, civil rights and more.
 	    	</category>
@@ -76,7 +76,7 @@
 			</second_level>
 			<second_level id="1134" title="Nutrition">
 			</second_level>
-		</top_level>	
+		</top_level>
 	    <top_level id="1103" title="Housing">
 	        <second_level id="1135" title="Emergency Shelter">
 			</second_level>
@@ -168,7 +168,7 @@
 	            <third_level id="1177" title="Transportation for School">
 				</third_level>
 			</second_level>
-		</top_level>	
+		</top_level>
 	    <top_level id="1106" title="Health">
 	        <second_level id="1178" title="Addiction &amp; Recovery">
 	            <third_level id="1179" title="12-Step">
@@ -280,7 +280,7 @@
 	            <third_level id="1231" title="Psychiatric Emergency Services">
 				</third_level>
 			</second_level>
-		</top_level>	
+		</top_level>
 	    <top_level id="1107" title="Money">
 	        <second_level id="1232" title="Financial Assistance">
 	            <third_level id="1233" title="Help Pay for Childcare">
@@ -360,7 +360,7 @@
 			</second_level>
 	        <second_level id="1270" title="Tax Preparation">
 			</second_level>
-		</top_level>			
+		</top_level>
 	    <top_level id="1108" title="Care">
 	        <second_level id="1271" title="Adoption &amp; Foster Care">
 	            <third_level id="1272" title="Adoption &amp; Foster Placement">
@@ -619,20 +619,20 @@
 				<second_level id='20004' title="Teens"></second_level>
 				<second_level id='20005' title="Children"></second_level>
 				<second_level id='20006' title="Seniors"></second_level>
-			</top_level>	
+			</top_level>
 			<top_level id='20007' title="Armed Forces">
 				<second_level id='20008' title="Active Duty"></second_level>
 				<second_level id='20009' title="National Guard"></second_level>
 				<second_level id='20010' title="Veterans"></second_level>
-			</top_level>	
+			</top_level>
 			<top_level id='20011' title="Citizenship">
 				<second_level id='20012' title="Immigrants"></second_level>
 				<second_level id='20013' title="Refugees"></second_level>
 				<second_level id='20014' title="Undocumented"></second_level>
-			</top_level>	
+			</top_level>
 			<top_level id='20015' title="Criminal History">
 				<second_level id='20016' title="Ex-Offenders"></second_level>
-			</top_level>	
+			</top_level>
 			<top_level id='20017' title="Disability">
 				<second_level id='20018' title="Learning Disability"></second_level>
 				<second_level id='20019' title="Developmental Disability"></second_level>
@@ -643,27 +643,27 @@
 				<second_level id='20023' title="Hearing Impairment"></second_level>
 				<second_level id='20024' title="Visual Impairment"></second_level>
 				<second_level id='20025' title="Mental Illness"></second_level>
-			</top_level>	
+			</top_level>
 			<top_level id='20026' title="Education">
 				<second_level id='20027' title="Dropouts"></second_level>
 				<second_level id='20028' title="Students"></second_level>
-			</top_level>	
+			</top_level>
 			<top_level id='20029' title="Emotional State">
 				<second_level id='20030' title="Grieving"></second_level>
-			</top_level>	
+			</top_level>
 			<top_level id='20031' title="Employment">
 				<second_level id='20032' title="Employed"></second_level>
 				<second_level id='20033' title="Retirement"></second_level>
 				<second_level id='20034' title="Unemployed"></second_level>
-			</top_level>	
+			</top_level>
 			<top_level id='20035' title="Gender">
 				<second_level id='20036' title="Women"></second_level>
 				<second_level id='20037' title="Men"></second_level>
 				<second_level id='20038' title="Transgender"></second_level>
-			</top_level>	
+			</top_level>
 			<top_level id='20039' title="Guardianship">
 				<second_level id='20040' title="Foster Youth"></second_level>
-			</top_level>	
+			</top_level>
 			<top_level id='20041' title="Health">
 				<second_level id='20042' title="Hospitalized"></second_level>
 				<second_level id='20043' title="Pregnant"></second_level>
@@ -676,33 +676,33 @@
 				<second_level id='20050' title="Substance Dependency"></second_level>
 				<second_level id='20051' title="Mental Illness"></second_level>
 				<second_level id='20090' title="Chronic Illness"></second_level>
-			</top_level>	
+			</top_level>
 			<top_level id='20052' title="Household">
 				<second_level id='20053' title="Individuals"></second_level>
 				<second_level id='20054' title="Families"></second_level>
-			</top_level>	
+			</top_level>
 			<top_level id='20055' title="Housing">
 				<second_level id='20056' title="Home Owners"></second_level>
 				<second_level id='20057' title="Home Renters"></second_level>
 				<second_level id='20058' title="Homeless"></second_level>
 				<second_level id='20059' title="Near Homeless"></second_level>
 				<second_level id='20060' title="Runaways"></second_level>
-			</top_level>	
+			</top_level>
 			<top_level id='20061' title="Income">
 				<second_level id='20062' title="Benefit Recipients"></second_level>
 				<second_level id='20063' title="Low-Income"></second_level>
-			</top_level>	
+			</top_level>
 			<top_level id='20064' title="Insurance">
 				<second_level id='20065' title="Uninsured"></second_level>
-			</top_level>	
+			</top_level>
 			<top_level id='20066' title="Language">
 				<second_level id='20067' title="Limited English"></second_level>
-			</top_level>	
+			</top_level>
 			<top_level id='20068' title="Race/Ethnicity">
 				<second_level id='20069' title="African American"></second_level>
 				<second_level id='20070' title="Asian"></second_level>
 				<second_level id='20071' title="Latino"></second_level>
-			</top_level>	
+			</top_level>
 			<top_level id='20072' title="Role">
 				<second_level id='20073' title="Caregivers"></second_level>
 				<second_level id='20091' title="Spouses"></second_level>
@@ -710,10 +710,10 @@
 				<second_level id='20074' title="Fathers"></second_level>
 				<second_level id='20075' title="Mothers"></second_level>
 				<second_level id='20076' title="Parents"></second_level>
-			</top_level>	
+			</top_level>
 			<top_level id='20077' title="Sexuality">
 				<second_level id='20078' title="LGBTQ"></second_level>
-			</top_level>	
+			</top_level>
 			<top_level id='20079' title="Survivors">
 				<second_level id='20080' title="All Survivors"></second_level>
 				<second_level id='20081' title="Abuse or Neglect Survivors"></second_level>
@@ -722,10 +722,10 @@
 				<second_level id='20084' title="Human Trafficking Survivors"></second_level>
 				<second_level id='20085' title="Natural Disaster Survivors"></second_level>
 				<second_level id='20086' title="Sexual Assault Survivors"></second_level>
-			</top_level>	
+			</top_level>
 			<top_level id='20087' title="Urgency">
 				<second_level id='20088' title="In Crisis"></second_level>
 				<second_level id='20089' title="In Danger"></second_level>
-			</top_level>	
+			</top_level>
 	</situations>
 </taxonomy>
